@@ -4,10 +4,10 @@
 
 export const LOBE_CHAT_CLOUD = 'LobeHub Cloud';
 
-export const BRANDING_NAME = 'LobeHub';
+export const BRANDING_NAME = 'Beta Jurídico AI';
 export const BRANDING_LOGO_URL = '';
 
-export const ORG_NAME = 'LobeHub';
+export const ORG_NAME = 'Pata AI';
 
 export const BRANDING_URL = {
   help: undefined,
@@ -34,7 +34,7 @@ export const BRANDING_EMAIL = {
   support: 'support@lobehub.com',
 };
 
-export const BRANDING_PROVIDER = 'lobehub';
+export const BRANDING_PROVIDER = 'pata-ai';
 
 export const COPYRIGHT = `© ${new Date().getFullYear()} ${ORG_NAME}`;
 export const COPYRIGHT_FULL = `${COPYRIGHT}. All rights reserved.`;

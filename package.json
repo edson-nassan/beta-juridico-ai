@@ -1,7 +1,7 @@
 {
-  "name": "@lobehub/lobehub",
+  "name": "beta-juridico-ai",
   "version": "2.2.2",
-  "description": "LobeHub - an open-source,comprehensive AI Agent framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/LLM web application.",
+  "description": "Plataforma de Inteligência Artificial - Beta Jurídico AI",
   "keywords": [
     "framework",
     "chatbot",
